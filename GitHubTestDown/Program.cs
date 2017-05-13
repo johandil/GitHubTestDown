@@ -13,9 +13,4 @@ namespace GitHubTestDown
             Console.WriteLine("Hello World");
         }
     }
-
-    class newClass
-    {
-
-    }
 }
