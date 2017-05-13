@@ -16,6 +16,9 @@ namespace GitHubTestDown
 
     class newClass
     {
+        public newClass()
+        {
 
+        }
     }
 }
