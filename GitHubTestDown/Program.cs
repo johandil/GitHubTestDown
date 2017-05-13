@@ -12,4 +12,9 @@ namespace GitHubTestDown
         {
         }
     }
+
+    class newClass
+    {
+
+    }
 }
